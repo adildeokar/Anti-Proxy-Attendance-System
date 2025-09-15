@@ -1,5 +1,3 @@
-Here’s a refreshed, detailed README with a strong founder story highlighting Adil Deokar, the SIH 2024 win context, and why the project is open source, formatted to look great on GitHub.
-
 # Anti Proxy Attendance System (APAS)
 
 Open-source, Raspberry Pi–based biometric attendance that eliminates proxy attendance using R307 fingerprint verification, faculty-controlled sessions, and exportable records—recognized among standout innovations showcased at Smart India Hackathon 2024 and aligned with SIH’s mission to scale student-built solutions nationwide. Built on Raspberry Pi OS (formerly Raspbian), the stack follows documented UART integration practices for Python and Adafruit’s fingerprint library, ensuring reproducibility on common classroom hardware.[1][2][3][4][5]
