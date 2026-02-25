@@ -2,9 +2,9 @@
 
 Open-source, Raspberry Pi–based biometric attendance that eliminates proxy attendance using R307 fingerprint verification, faculty-controlled sessions, and exportable records—recognized among standout innovations showcased at Smart India Hackathon 2024 and aligned with SIH’s mission to scale student-built solutions nationwide. Built on Raspberry Pi OS (formerly Raspbian), the stack follows documented UART integration practices for Python and Adafruit’s fingerprint library, ensuring reproducibility on common classroom hardware.[1][2][3][4][5]
 
-## Story — by Adil Deokar
+## Story 
 
-APAS started as a simple question: how can attendance be accurate, auditable, and fast without burdening teachers? As a CSE student and AI developer, Adil Deokar prototyped a portable, faculty-authenticated flow, iterating on real classroom constraints—speed, accuracy, and zero tolerance for proxy. The design pairs low-cost Raspberry Pi hardware with proven UART fingerprint workflows, refined through multiple testing cycles with R307-class sensors and the Adafruit ecosystem, culminating in a robust, classroom-ready tool that resonated with SIH evaluators focused on deployable impact across institutions.[2][4][6][1]
+APAS started as a simple question: how can attendance be accurate, auditable, and fast without burdening teachers? As a CSE students and AI developer, Adil Deokar , Mohit Pokale prototyped a portable, faculty-authenticated flow, iterating on real classroom constraints—speed, accuracy, and zero tolerance for proxy. The design pairs low-cost Raspberry Pi hardware with proven UART fingerprint workflows, refined through multiple testing cycles with R307-class sensors and the Adafruit ecosystem, culminating in a robust, classroom-ready tool that resonated with SIH evaluators focused on deployable impact across institutions.[2][4][6][1]
 
 ## Why open source
 
@@ -79,7 +79,7 @@ APAS demonstrated how low-cost hardware and open libraries can yield deployable 
 - pip install pyserial adafruit-circuitpython-fingerprint pillow openpyxl pandas reportlab.[7][4]
 - python3 apas.py and follow on-screen prompts for enroll, attendance, and export.[4]
 
-Built with care by Adil Deokar—open, auditable, and ready to scale accurate attendance everywhere classrooms meet code.[2][1]
+Built with care by Adil Deokar—open,Mohit Pokale  auditable, and ready to scale accurate attendance everywhere classrooms meet code.[2][1]
 
 [1](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2085000)
 [2](https://news.iitgn.ac.in/iitgn-celebrates-the-winners-of-smart-india-hackathon-sih-2024/)
